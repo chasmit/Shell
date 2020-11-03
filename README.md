@@ -1,5 +1,5 @@
 # shell
 
-Work in progress.  
+WIP
 
-C shell emulating bash commands.  I called it chash because my name is Charlie, it's like bash, and I'm really hilarious.
+C shell emulating bash commands.
