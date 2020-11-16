@@ -1,4 +1,4 @@
-# shell
+# Shell
 
 WIP
 
